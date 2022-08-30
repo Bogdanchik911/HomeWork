@@ -5,3 +5,20 @@
   img{ 
     max-width:100%;
   }
+  h2 {
+    color: red;
+  }
+  p span {
+     color: green;
+  }
+  #mainTitle {
+  color: yellow;
+  }
+  .default-text.custom-text{
+    color: pink;
+  }
+  div > span {
+    color: coral;
+  }
+  
+
