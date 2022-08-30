@@ -2,10 +2,7 @@
     margin:0 ;
     padding:0 ; 
   }
-  img{ 
-    max-width:100%;
-  }
-
+  
   h2 {
     color: red;
   }
@@ -21,20 +18,22 @@
   div > span {
     color: coral;
   }
-  b + i{
+  div + span {
     color: blue;
   }
   .default-text.custom-text{
     color: fuchsia;
   }
  li a {
-  color: darkolivegreen;
+  color: rgb(90, 127, 26);
  }
 
- *section {
-  color: aquamarine;
+ div + span {
+  color: darkorchid;
  }
 
- a title {
-   color: purple;
+ header>nav b {
+  color: yellowgreen;
  }
+
+ 
