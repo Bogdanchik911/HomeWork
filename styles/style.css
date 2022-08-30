@@ -5,6 +5,7 @@
   img{ 
     max-width:100%;
   }
+
   h2 {
     color: red;
   }
@@ -14,11 +15,26 @@
   #mainTitle {
   color: yellow;
   }
-  .default-text.custom-text{
+  .default-text{
     color: pink;
   }
   div > span {
     color: coral;
   }
-  
+  b + i{
+    color: blue;
+  }
+  .default-text.custom-text{
+    color: fuchsia;
+  }
+ li a {
+  color: darkolivegreen;
+ }
 
+ *section {
+  color: aquamarine;
+ }
+
+ a title {
+   color: purple;
+ }
